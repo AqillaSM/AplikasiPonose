@@ -55,7 +55,7 @@ namespace AplikasiPonose
             kasir.Show();
             this.Hide();
         }
-
+        // 
         private void ChargeButton_Click(object sender, EventArgs e)
         {
             DataTable dtNotaa = new DataTable();
